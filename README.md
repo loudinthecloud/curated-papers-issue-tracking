@@ -1,4 +1,4 @@
-# Issue Tracking for Curated Papers
+# Suggest features for Curated Papers
 
 [Curated Papers](https://www.curatedpapers.com) is a social network based around curated lists of Academic Papers. This repository is used as a public issue tracking system. Please follow the guidelines below to report an issue or follow the progress on existing issues.
 
